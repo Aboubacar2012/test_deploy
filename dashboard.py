@@ -14,7 +14,7 @@ import dill
 import plotly.graph_objects as go
 import plotly.express as px
 
-df = pd.read_csv("TEST_FINAL_SCALE.csv")
+df = pd.read_csv("TEST_FINAL_SCALE_2.csv")
 print(df.shape)
 #Xclient = pd.read_csv("Base_Clients_scale.csv")
 
